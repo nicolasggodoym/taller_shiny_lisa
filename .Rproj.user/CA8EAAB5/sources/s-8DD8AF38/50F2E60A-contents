@@ -18,14 +18,6 @@ rsconnect::setAccountInfo(name='nicolasgodoymarquez',
                           secret='DT0o8LHpW3fKx3bMpMlpAhc4+jOqdaN6Uwo2DCo9')
 
 
-extendInputType("check", {
-  shiny::checkboxGroupInput(
-    inputId = surveyID(),
-    label = surveyLabel(),
-    choices = surveyOptions(), 
-  )
-})
-
 source("ui.R")
 source("server.R")
 
