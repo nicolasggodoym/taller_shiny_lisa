@@ -1,26 +1,26 @@
 {
-    "id": "50F2E60A",
-    "path": "~/GitHub/taller_shiny_lisa/app.R",
-    "project_path": "app.R",
+    "id": "C5FA3ED0",
+    "path": "~/GitHub/taller_shiny_lisa/server.R",
+    "project_path": "server.R",
     "type": "r_source",
-    "hash": "2900042064",
+    "hash": "0",
     "contents": "",
     "dirty": false,
-    "created": 1657051312756.0,
+    "created": 1657051272668.0,
     "source_on_save": false,
-    "relative_order": 5,
+    "relative_order": 4,
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "18,0",
-        "scrollLine": "6"
+        "cursorPosition": "9,47",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657120906,
+    "lastKnownWriteTime": 1657210669,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657120906723,
+    "last_content_update": 1657210669749,
     "read_only": false,
     "read_only_alternatives": []
 }

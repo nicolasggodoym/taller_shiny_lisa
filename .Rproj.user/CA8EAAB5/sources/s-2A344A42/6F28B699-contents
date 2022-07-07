@@ -1,5 +1,6 @@
 library(readxl)
-data <- data.frame(readxl::read_xlsx("input/cuestionario.xlsx"))
+data <- data.frame(readxl::read_xlsx("input/cuestionario.xlsx", na = ""))
+data$required <- ifelse(data$required == "TRUE", TRUE, FALSE)
 
 ui <- shiny::fluidPage(
   shinysurveys::surveyOutput(df = data,

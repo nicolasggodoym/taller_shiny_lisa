@@ -26,7 +26,9 @@ rsconnect::deployApp(forceUpdate = TRUE) #Subir App al server de shinyapps
 tictoc::toc()
 
 # Run the application 
-shinyApp(ui = ui, server = server)
+app <- shinyApp(ui = ui, server = server)
+runApp(app)
+
 
 
 #<iframe src="https://nicolasgodoymarquez.shinyapps.io/taller_shiny_lisa/" width="100%" height="550" style="border:none;">
