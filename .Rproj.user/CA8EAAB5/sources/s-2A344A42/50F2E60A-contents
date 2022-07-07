@@ -7,11 +7,11 @@
 #    http://shiny.rstudio.com/
 #
 
-library(shiny)
-library(rsconnect)
-library(tictoc)
-library(shinysurveys)
-library(readxl)
+# library(shiny)
+# library(rsconnect)
+# library(tictoc)
+# library(shinysurveys)
+# library(readxl)
 
 rsconnect::setAccountInfo(name='nicolasgodoymarquez', 
                           token='8C7957A07528129E44DC0E8F5ECB30AC', 
