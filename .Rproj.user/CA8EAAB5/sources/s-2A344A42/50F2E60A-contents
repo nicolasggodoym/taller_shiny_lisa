@@ -18,16 +18,16 @@ rsconnect::setAccountInfo(name='nicolasgodoymarquez',
                           secret='DT0o8LHpW3fKx3bMpMlpAhc4+jOqdaN6Uwo2DCo9')
 
 
-source("ui.R")
-source("server.R")
+# source("ui.R")
+# source("server.R")
 
 tictoc::tic() #inicio...
 rsconnect::deployApp(forceUpdate = TRUE) #Subir App al server de shinyapps
 tictoc::toc()
 
 # Run the application 
-app <- shinyApp(ui = ui, server = server)
-runApp(app)
+# app <- shinyApp(ui = ui, server = server)
+# runApp(app)
 
 
 

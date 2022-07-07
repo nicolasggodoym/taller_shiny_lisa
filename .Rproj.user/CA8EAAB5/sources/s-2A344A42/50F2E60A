@@ -3,7 +3,7 @@
     "path": "~/GitHub/taller_shiny_lisa/app.R",
     "project_path": "app.R",
     "type": "r_source",
-    "hash": "3363410870",
+    "hash": "3888591190",
     "contents": "",
     "dirty": false,
     "created": 1657051312756.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "13,17",
-        "scrollLine": "0"
+        "cursorPosition": "25,13",
+        "scrollLine": "8"
     },
     "folds": "",
-    "lastKnownWriteTime": 1657211961,
+    "lastKnownWriteTime": 1657212271,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1657211961996,
+    "last_content_update": 1657212271073,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -4,8 +4,8 @@ username:
 account: nicolasgodoymarquez
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
-appId: 6598676
-bundleId: 6075048
+appId: 6607363
+bundleId: 6078960
 url: https://nicolasgodoymarquez.shinyapps.io/taller_shiny_lisa/
-when: 1657119667.51978
-lastSyncTime: 1657119667.51981
+when: 1657212282.1005
+lastSyncTime: 1657212282.10051
